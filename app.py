@@ -1,28 +1,51 @@
-# app.py - Updated with RAG integration for your personal profile
-from fastapi import FastAPI, HTTPException, Request
-from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel, Field
-from typing import List, Dict, Any, Optional
 import os
-import uvicorn
-from dotenv import load_dotenv
-import google.generativeai as genai
-from langchain.chains import ConversationalRetrievalChain
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.memory import ConversationBufferMemory
-from pinecone import Pinecone
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
-from speech_to_text import router as speech_router
-from memory_management import ChatbotMemoryManager
-from langchain.callbacks.base import BaseCallbackHandler
-from langchain_core.documents import Document
-from langchain_core.retrievers import BaseRetriever
+import sys
 import logging
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+# Define flags for feature availability
+SPEECH_AVAILABLE = False
+
+# Check if running on Render
+IS_RENDER = os.environ.get('IS_RENDER', False)
+
+# Try to import speech module, but don't fail if not available
+try:
+    if not IS_RENDER:  # Skip on Render
+        from speech_to_text import router as speech_router
+        SPEECH_AVAILABLE = True
+        logger.info("Speech recognition module loaded successfully")
+    else:
+        logger.info("Running on Render - speech recognition disabled")
+except ImportError as e:
+    logger.warning(f"Speech recognition module not available: {e}")
+    SPEECH_AVAILABLE = False
+
+# The rest of your imports
+try:
+    from fastapi import FastAPI, HTTPException, Request
+    from fastapi.middleware.cors import CORSMiddleware
+    from pydantic import BaseModel, Field
+    from typing import List, Dict, Any, Optional
+    import uvicorn
+    from dotenv import load_dotenv
+    import google.generativeai as genai
+    from langchain.chains import ConversationalRetrievalChain
+    from langchain_google_genai import ChatGoogleGenerativeAI
+    from langchain.memory import ConversationBufferMemory
+    from pinecone import Pinecone
+    from langchain_google_genai import GoogleGenerativeAIEmbeddings
+    from memory_management import ChatbotMemoryManager
+    from langchain.callbacks.base import BaseCallbackHandler
+    from langchain_core.documents import Document
+    from langchain_core.retrievers import BaseRetriever
+except ImportError as e:
+    logger.error(f"Error importing required modules: {e}")
+    raise
 
 # Load environment variables
 load_dotenv()
@@ -39,8 +62,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Include speech-to-text router
-app.include_router(speech_router, tags=["Speech"])
+# Include speech-to-text router only if available
+if SPEECH_AVAILABLE:
+    logger.info("Including speech-to-text router")
+    app.include_router(speech_router, tags=["Speech"])
+else:
+    logger.info("Speech-to-text functionality is disabled")
 
 # Initialize API keys
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
