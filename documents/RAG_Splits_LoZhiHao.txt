@@ -1,0 +1,257 @@
+Personal Profile
+
+Name: Zhi Hao, Lo (Jason)
+Email: zhihao.lo@u.nus.edu
+Phone: +65 80237584
+Website: https://lordzhihao.vercel.app/
+LinkedIn: https://www.linkedin.com/in/zhi-hao-lo
+Medium: https://medium.com/@lozhihao
+GitHub: https://github.com/LordZhiHao
+Summary: Aspiring Data Scientist with 1+ years of experience in AI development, predictive analytics, and machine learning; passionate writer and investor.
+
+---
+
+Education
+
+Institution: National University of Singapore
+Location: Singapore
+Degree: BSc. in Business Analytics
+CAP: 4.33 / 5.0
+Period: Aug 2021 – Dec 2025 (Expected)
+Second Major: Economics
+Specializations: Machine Learning-based Analytics
+Awards: Certificate of Distinction in Analytics Techniques, Certificate of Distinction in Financial Analytics, Certificate of Distinction in ML-based Analytics, ASEAN Undergraduate Scholarship
+
+---
+
+Work Experience - Munich Management Pte. Ltd.
+
+Position: Data Science Intern
+Location: Singapore
+Period: May 2025 – Dec 2025 (Expected)
+Details: TO BE DETERMINED, Will be starting soon on 13 May 2025
+
+---
+
+Work Experience - Wholly Greens Pte Ltd.
+
+Position: Data Scientist Intern
+Location: Singapore
+Period: Jan 2025 – Mar 2025
+Projects:
+• Finetuned object detection models using YOLOv8 model on GCP to create a robust data pipeline to accurately identify
+objects retrieved by users from vending machines.
+• Conducted data annotation on CVAT platform for 5000+ object images from 40+ SKUs for model training and validation.
+• Researched on data pipeline to perform image clustering and remove duplicated image datapoints using FastDup and
+alternative clustering methodologies (Clustering on YOLOv8 embeddings, etc)
+
+---
+
+Work Experience - Azure Tide Holdings
+
+Position: Data Analyst Intern
+Location: Singapore
+Period: Aug 2024 – Jan 2025
+Projects:
+• Utilized Python to integrate with 5+ APIs (CoinMarketCap, CoinGecko, Debank, Binance, Blockchain.com) to collect and
+process data for over 20+ cryptocurrencies and wallets
+• Automated daily updates of cryptocurrency prices and conducted due diligence on counterparties’ financial situations,
+reducing manual workload by 90% per day and improving data accuracy
+• Performed data analysis, cleaning and visualization using Excel on the portfolio of counterparties, ensuring smooth credit
+decision-making process
+• Streamlined the distribution of financial and market updates to 10+ stakeholders via Sheety, Slack, and Telegram APIs,
+reducing the update time by 80% and ensuring real-time communication
+• Leveraged Python scripts to provide real-time market insights, increasing reporting efficiency and enabling faster decisionmaking by 30%
+
+---
+
+Work Experience - Continental AG
+
+Position: Data Analytics Intern
+Location: Singapore
+Period: Jan 2024 – Jun 2024
+Projects:
+• Designed and implemented a PowerBI dashboard to compare and filter similar projects, aiding project managers in identifying past project details and costs
+• Proposed and executed a redesign of the data relationships between 20+ tables in the project details management dashboard, streamlining data flows and improving efficiency
+• Employed PowerQuery for data cleaning and manipulation, and leveraged DAX measures to calculate key metrics (mean,
+median, standard deviation) for real-time project cost management
+• Enhanced data representation by performing data manipulation and proposing new visuals for the project attributes
+dashboard, improving clarity and insight into project details
+• Developed a dynamic organizational chart for manpower arrangement using Mendix, increasing human resource management efficiency through improved workforce visibility and planning
+
+---
+
+Work Experience - Jurong Town Corporation (JTC)
+
+Position: Data Science Intern
+Location: Singapore
+Period: May 2023 – Aug 2023
+Projects:
+• Conducted data cleansing, preprocessing, feature engineering, and developed machine learning models to accurately predict
+the occupancy rate of sub-segments within the industrial property sector
+• Improved Mean Absolute Error of model predictions to 0.21% quarterly hence reducing the number of occupancy rate
+surveys needed by the company from 4 to 2 times per year
+• Identified and visualized key factors that significantly contribute to higher premiums observed in both food and generic
+industrial space
+
+---
+
+Teaching Experience
+
+Institution: National University of Singapore, School of Computing
+Role: Teaching Assistant
+Course: IS1108 Digital Ethics and Data Privacy
+Period: Jan 2023 – Dec 2023
+Details:
+• Facilitated a 25-student tutorial class to conduct discussion and learning on computing ethics and data privacy challenges
+in contemporary culture
+• Collaborated with Teaching Assistants to grade and review assignments for course participants
+
+---
+
+Project - Data Analyst Agent Development
+
+Type: Consultancy Project
+Period: Mar 2025 – May 2025 (Expected)
+Company: Rank Possible Sdn. Bhd. 
+Details:
+• Developed an MVP for a data analyst agent to help marketing teams extract insights from BigQuery without requiring
+SQL or coding expertise.
+• Built a full-stack web app using React.js and Recharts for frontend visualizations, and FastAPI to connect backend services.
+• Integrated Vanna AI to implement a RAG-reinforced text-to-SQL agent, leveraging historical query pairs to improve output
+accuracy over time.
+• Queried and analyzed two client-provided BigQuery tables (20+ columns each) using natural language inputs from nontechnical users.
+• Integrated Gemini-2.0-flash with Chain-of-Thought prompting to analyze queried dataset outputs, data cards, and descriptive statistics, generating chart suggestions, data insights, and recommended next steps.
+• Employed MongoDB for vector storage in the RAG pipeline and used Python for backend orchestration and data parsing.
+• Deployed an active demo website for client testing and iteration; continuously refining based on user feedback.
+
+---
+
+Project - Portfolio Website & AI Chatbot
+
+Type: Personal Project
+Period: Jan 2025 – Present
+Company: Myself, at https://lordzhihao.vercel.app/
+Details:
+• Designed and deployed a personal portfolio website using React.js and Vercel to showcase projects, education, and work
+experience.
+• Integrated EmailJS to enable automated email responses for visitor inquiries, enhancing interactivity and outreach.
+• Built and deployed an AI-powered personal chatbot using a RAG architecture with FastAPI backend, Pinecone vector
+store, and Gemini-2.0-flash as the LLM.
+• Engineered conversation memory with a rolling window of 10 messages to maintain chat context and improve response
+relevance.
+• Developed the chatbot to answer questions about personal background, projects, and experience, offering an interactive
+way for visitors to explore the portfolio.
+
+---
+
+Project - Bon-AIPetit
+
+Type: Gamuda AI Academy Project (won 1st Runner-Up for best project)
+Period: Jan 2025 – Mar 2025
+Company: Gamuda (Apprenticeship)
+Details:
+• Led a team of 5 to design and deploy an AI-powered web application that transforms leftover ingredients into personalized
+meals, promoting sustainability through smart technology.
+• Implemented a RAG-based system using Vertex AI Gemini-2.0-flash, MongoDB (vector embeddings), and Cloud SQL to
+power recipe generation, personalized meal planning, and a conversational Chef-bot.
+• Built a full-stack solution with Vue.js + Vuetify on the frontend (Firebase Hosting) and Python (FastAPI) on the backend
+(GCP Cloud Run); managed CI/CD using GitHub Actions.
+• Integrated ensemble models using Google Cloud Vision API to extract ingredients and text from grocery receipts and
+images, reducing false positives in ingredients detection and OCR.
+• Enabled three core features: (1) Recipe Generator from ingredient photos, (2) Smart Meal Planner with nutritional tracking and grocery list, and (3) AI Chef-bot with context-aware chat.
+
+---
+
+Project - Coca-Cola Cargo Permit Automation
+
+Type: Capstone Project
+Company: The Coca-Cola Company
+Period: Aug 2024 – Nov 2024
+Details:
+• Led the automation of cargo permit data extraction using Python, OpenCV, and YOLOv8, reducing manual processing
+time by 30% and boosting workflow efficiency.
+• Generated synthetic data with cv2 and annotated 700+ permits using Roboflow, increasing training data by 80% and
+improving object detection robustness.
+• Fine-tuned YOLOv8 for bounding box detection and implemented OCR pipelines with Pytesseract, Doctr, and PaddleOCR, achieving 99% text extraction precision.
+
+---
+
+Project - Crop Demand Forecasting (Sarisuki)
+
+Type: Consultancy Project
+Company: Sarisuki
+Period: Jan 2024 – May 2024
+Details:
+• Led a team of 4 to develop a short-term crop price forecasting system for 19 agricultural products using Python.
+2• Engineered features and performed time series analysis using ARIMA, SARIMA, VARIMA, LSTM, and Transformer
+models.
+• Evaluated model performance via MAE and MAPE, conducting backtesting to identify optimal models per crop and time
+horizon (1–3 days ahead).
+• Utilized Python & Jupyter Notebooks for experimentation and documentation throughout the modelling pipeline.
+• Presented a final technical report to Sarisuki, delivering actionable insights for pricing strategy and supply chain optimization.
+
+---
+
+Miscellaneous Projects
+
+• BrainHack 2023 - SeeTrue Category: Developed deep learning models in NLP & CV to classify fake social media
+users, achieving an overall accuracy of 81% and a top 10 overall rankings
+• SDS Datathon 2024 - SingLife Analytics & Machine Learning: Developed machine learning models & performed
+visualization & analytics to classify fraudulent SingLife insurance claims, achieving an accuracy of 95% & f1-score of 35%
+• EasyIntern - Internship Recommendation System: End to end website embedded with a job recommendation system to allow internship seekers to apply for internships with ease
+---
+
+Leadership - BACT
+
+Role: Vice-President (Internal) & Senior Analyst
+Period: Aug 2023 – Aug 2024
+Responsibilities:
+• Led a consultancy project (see Projects) under BACT to deliver short-term crop price forecasting for Sarisuki.
+• Managed a publicity team of 4 to oversee social media platforms (Instagram, LinkedIn, Telegram), posting events and
+updates for over 300 followers on Instagram and LinkedIn, and 80 members on Telegram
+• Collaborated with Alteryx and Xopa.ai to organize sharings, talks, and hackathons for club members and analysts
+• Facilitated weekly data analytics events, coordinating with external parties to deliver machine learning and data analytics
+sessions for 80+ members
+
+---
+
+Leadership - NUS Pioneer House
+
+Roles: Peer Mentor, Cooking Interest Group Leader, Orientation Group Leader
+Period: Jun 2022 – Jun 2024
+Responsibilities:
+• Mentored 15 residents on academics, campus life, and personal development as part of the Peer Mentorship Programme.
+• Organised and hosted events for up to 70 residents to strengthen engagement, inclusivity, and community bonding.
+• Served as Orientation Group Leader (OGL) for PH Freshman Orientation Camp 2022/2023, leading a group of incoming
+students through onboarding and team-building activities.
+• Facilitated two-way communication between residents and management by relaying feedback and advocating for resident
+needs to improve hostel living experience.
+• Oversaw performance of 7 student leaders under the PCT programme, ensuring smooth execution of weekly activities and
+effective peer leadership.
+• Led 12 biweekly cooking events for up to 20 participants per session; planned menus, managed ingredient preparation, and
+handled participant signups.
+• Collaborated with Monofood (NGO) to organise an “Ugly Food” event promoting sustainability and food waste reduction.
+
+---
+
+Leadership - NUS Prince George’s Park Residences (PGPR)
+
+Role: Badminton Sports Clinic Leader
+Period: Aug 2024 – Dec 2024
+Responsibilities:
+• Organised and led 8 biweekly badminton clinics for PGPR residents, with 10–12 participants per session.
+• Managed court bookings, equipment preparation, and hydration logistics to ensure smooth event execution.
+• Instructed beginner-friendly badminton drills, techniques, and rules, catering to newcomers and casual players.
+• Led warm-up and cool-down routines while fostering an inclusive and active community environment through sports.
+
+---
+
+Skills
+
+Languages: Python, R, SQL, Java, JavaScript, HTML, CSS
+Frameworks: VueJs, Vuetify, ReactJs, Firebase, Pandas, Numpy, Sklearn, Pytorch, Ultralytics, LangChain, Airflow, Selenium, Bs4, Streamlit, FastAPI, Pydantic
+Tools: PowerBI, Tableau, Excel, UiPath, Alteryx, Figma, MySQL, PostgreSQL, MongoDB, Pinecone, Docker
+Cloud: Cloud SQL, BigQuery, Vertex AI, Cloud Run
+Certifications: UiPath RPA Developer Foundations, CFI DS & ML Fundamentals, Gamuda AI Academy Graduate
+Languages Spoken: Fluent in English, Mandarin, Malay; Competent in written English, Mandarin, Malay
