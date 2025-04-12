@@ -2,25 +2,24 @@
 # build.sh - Custom build script for Render deployment
 
 # Update system packages
-apt-get update 
+echo "Installing system dependencies..."
+apt-get update
+apt-get install -y portaudio19-dev python3-pyaudio python3-dev libportaudio2 libasound-dev
 
-# Install base dependencies first
+# Install Python requirements (without PyAudio)
+echo "Installing Python dependencies..."
 pip install --upgrade pip
 pip install -r requirements.txt
 
-# Install PyAudio using only-binary option
-echo "Installing PyAudio using only-binary option..."
+# Now try to install PyAudio with system dependencies in place
+echo "Installing PyAudio..."
+pip install PyAudio
 pip install --only-binary :all: PyAudio
-
-# If that fails, try using alternative wheel sources
-if ! pip list | grep -q "PyAudio"; then
-  echo "First method failed, trying alternative PyAudio installation method..."
-  pip install --find-links https://wheel-index.linuxserver.io/ubuntu/ PyAudio
-fi
 
 # Verify installation
 echo "Installed packages:"
 pip list
 
-# Run a quick test to verify PyAudio import works
+# Run a quick test to verify PyAudio import
+echo "Testing PyAudio import..."
 python -c "import pyaudio; print(f'PyAudio version: {pyaudio.__version__}')" || echo "PyAudio import test failed"
