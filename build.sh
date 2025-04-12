@@ -10,12 +10,12 @@ pip install -r requirements.txt
 
 # Install PyAudio using only-binary option
 echo "Installing PyAudio using only-binary option..."
-pip install --only-binary :all: PyAudio==0.2.14
+pip install --only-binary :all: PyAudio
 
 # If that fails, try using alternative wheel sources
 if ! pip list | grep -q "PyAudio"; then
   echo "First method failed, trying alternative PyAudio installation method..."
-  pip install --find-links https://wheel-index.linuxserver.io/ubuntu/ PyAudio==0.2.14
+  pip install --find-links https://wheel-index.linuxserver.io/ubuntu/ PyAudio
 fi
 
 # Verify installation
