@@ -24,12 +24,26 @@ Awards: Certificate of Distinction in Analytics Techniques, Certificate of Disti
 
 ---
 
-Work Experience - Munich Management Pte. Ltd.
+Work Experience - AI Singapore
+
+Position: Audio AI Engineering Intern
+Location: Singapore
+Period: Jun 2025 – Dec 2025 (Expected)
+Projects:
+• Developed data pipeline to create manifests for 690+GB of National Speech Corpus dataset for ASR and SQA task training
+• To be determined
+
+---
+
+Work Experience - Munich Re
 
 Position: Data Science Intern
 Location: Singapore
 Period: May 2025 – Dec 2025 (Expected)
-Details: TO BE DETERMINED, Will be starting soon on 13 May 2025
+Projects:
+• Designed and implemented a comprehensive OCR evaluation framework for underwriting documents (checkboxes, handwriting, tables, multi-doc formats); adopted across the department for GenAI solution benchmarking.
+• Built and deployed a document classifier for underwriting documents (11 classes), achieving 90% accuracy and 92% weighted F1-score using a LLaMA 3.3-based LLM model.
+• Exploring and comparing alternative document classification approaches, including Visual-Language Models (VLMs) with Mistral (68% accuracy) and fine-tuned LayoutLM (92% accuracy). Developed ensemble model using both LLaMa 3,3-based LLM model and fine-tuned LayoutLM to deliver high confidence predictions and highlight ambiguous files for review
 
 ---
 

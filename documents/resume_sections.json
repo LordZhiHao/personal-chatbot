@@ -21,8 +21,8 @@
   },
   {
     "id": "section-3",
-    "title": "Work Experience - Munich Management Pte. Ltd.",
-    "content": "Work Experience - Munich Management Pte. Ltd.\n\nPosition: Data Science Intern\nLocation: Singapore\nPeriod: May 2025 \u2013 Dec 2025 (Expected)\nDetails: TO BE DETERMINED, Will be starting soon on 13 May 2025",
+    "title": "Work Experience - AI Singapore",
+    "content": "Work Experience - AI Singapore\n\nPosition: Audio AI Engineering Intern\nLocation: Singapore\nPeriod: Jun 2025 \u2013 Dec 2025 (Expected)\nProjects:\n\u2022 Developed data pipeline to create manifests for 690+GB of National Speech Corpus dataset for ASR and SQA task training\n\u2022 To be determined",
     "category": "Work Experience",
     "metadata": {
       "source": "resume",
@@ -31,8 +31,8 @@
   },
   {
     "id": "section-4",
-    "title": "Work Experience - Wholly Greens Pte Ltd.",
-    "content": "Work Experience - Wholly Greens Pte Ltd.\n\nPosition: Data Scientist Intern\nLocation: Singapore\nPeriod: Jan 2025 \u2013 Mar 2025\nProjects:\n\u2022 Finetuned object detection models using YOLOv8 model on GCP to create a robust data pipeline to accurately identify\nobjects retrieved by users from vending machines.\n\u2022 Conducted data annotation on CVAT platform for 5000+ object images from 40+ SKUs for model training and validation.\n\u2022 Researched on data pipeline to perform image clustering and remove duplicated image datapoints using FastDup and\nalternative clustering methodologies (Clustering on YOLOv8 embeddings, etc)",
+    "title": "Work Experience - Munich Re",
+    "content": "Work Experience - Munich Re\n\nPosition: Data Science Intern\nLocation: Singapore\nPeriod: May 2025 \u2013 Dec 2025 (Expected)\nProjects:\n\u2022 Designed and implemented a comprehensive OCR evaluation framework for underwriting documents (checkboxes, handwriting, tables, multi-doc formats); adopted across the department for GenAI solution benchmarking.\n\u2022 Built and deployed a document classifier for underwriting documents (11 classes), achieving 90% accuracy and 92% weighted F1-score using a LLaMA 3.3-based LLM model.\n\u2022 Exploring and comparing alternative document classification approaches, including Visual-Language Models (VLMs) with Mistral (68% accuracy) and fine-tuned LayoutLM (92% accuracy). Developed ensemble model using both LLaMa 3,3-based LLM model and fine-tuned LayoutLM to deliver high confidence predictions and highlight ambiguous files for review",
     "category": "Work Experience",
     "metadata": {
       "source": "resume",
@@ -41,8 +41,8 @@
   },
   {
     "id": "section-5",
-    "title": "Work Experience - Azure Tide Holdings",
-    "content": "Work Experience - Azure Tide Holdings\n\nPosition: Data Analyst Intern\nLocation: Singapore\nPeriod: Aug 2024 \u2013 Jan 2025\nProjects:\n\u2022 Utilized Python to integrate with 5+ APIs (CoinMarketCap, CoinGecko, Debank, Binance, Blockchain.com) to collect and\nprocess data for over 20+ cryptocurrencies and wallets\n\u2022 Automated daily updates of cryptocurrency prices and conducted due diligence on counterparties\u2019 financial situations,\nreducing manual workload by 90% per day and improving data accuracy\n\u2022 Performed data analysis, cleaning and visualization using Excel on the portfolio of counterparties, ensuring smooth credit\ndecision-making process\n\u2022 Streamlined the distribution of financial and market updates to 10+ stakeholders via Sheety, Slack, and Telegram APIs,\nreducing the update time by 80% and ensuring real-time communication\n\u2022 Leveraged Python scripts to provide real-time market insights, increasing reporting efficiency and enabling faster decisionmaking by 30%",
+    "title": "Work Experience - Wholly Greens Pte Ltd.",
+    "content": "Work Experience - Wholly Greens Pte Ltd.\n\nPosition: Data Scientist Intern\nLocation: Singapore\nPeriod: Jan 2025 \u2013 Mar 2025\nProjects:\n\u2022 Finetuned object detection models using YOLOv8 model on GCP to create a robust data pipeline to accurately identify\nobjects retrieved by users from vending machines.\n\u2022 Conducted data annotation on CVAT platform for 5000+ object images from 40+ SKUs for model training and validation.\n\u2022 Researched on data pipeline to perform image clustering and remove duplicated image datapoints using FastDup and\nalternative clustering methodologies (Clustering on YOLOv8 embeddings, etc)",
     "category": "Work Experience",
     "metadata": {
       "source": "resume",
@@ -51,8 +51,8 @@
   },
   {
     "id": "section-6",
-    "title": "Work Experience - Continental AG",
-    "content": "Work Experience - Continental AG\n\nPosition: Data Analytics Intern\nLocation: Singapore\nPeriod: Jan 2024 \u2013 Jun 2024\nProjects:\n\u2022 Designed and implemented a PowerBI dashboard to compare and filter similar projects, aiding project managers in identifying past project details and costs\n\u2022 Proposed and executed a redesign of the data relationships between 20+ tables in the project details management dashboard, streamlining data flows and improving efficiency\n\u2022 Employed PowerQuery for data cleaning and manipulation, and leveraged DAX measures to calculate key metrics (mean,\nmedian, standard deviation) for real-time project cost management\n\u2022 Enhanced data representation by performing data manipulation and proposing new visuals for the project attributes\ndashboard, improving clarity and insight into project details\n\u2022 Developed a dynamic organizational chart for manpower arrangement using Mendix, increasing human resource management efficiency through improved workforce visibility and planning",
+    "title": "Work Experience - Azure Tide Holdings",
+    "content": "Work Experience - Azure Tide Holdings\n\nPosition: Data Analyst Intern\nLocation: Singapore\nPeriod: Aug 2024 \u2013 Jan 2025\nProjects:\n\u2022 Utilized Python to integrate with 5+ APIs (CoinMarketCap, CoinGecko, Debank, Binance, Blockchain.com) to collect and\nprocess data for over 20+ cryptocurrencies and wallets\n\u2022 Automated daily updates of cryptocurrency prices and conducted due diligence on counterparties\u2019 financial situations,\nreducing manual workload by 90% per day and improving data accuracy\n\u2022 Performed data analysis, cleaning and visualization using Excel on the portfolio of counterparties, ensuring smooth credit\ndecision-making process\n\u2022 Streamlined the distribution of financial and market updates to 10+ stakeholders via Sheety, Slack, and Telegram APIs,\nreducing the update time by 80% and ensuring real-time communication\n\u2022 Leveraged Python scripts to provide real-time market insights, increasing reporting efficiency and enabling faster decisionmaking by 30%",
     "category": "Work Experience",
     "metadata": {
       "source": "resume",
@@ -61,8 +61,8 @@
   },
   {
     "id": "section-7",
-    "title": "Work Experience - Jurong Town Corporation (JTC)",
-    "content": "Work Experience - Jurong Town Corporation (JTC)\n\nPosition: Data Science Intern\nLocation: Singapore\nPeriod: May 2023 \u2013 Aug 2023\nProjects:\n\u2022 Conducted data cleansing, preprocessing, feature engineering, and developed machine learning models to accurately predict\nthe occupancy rate of sub-segments within the industrial property sector\n\u2022 Improved Mean Absolute Error of model predictions to 0.21% quarterly hence reducing the number of occupancy rate\nsurveys needed by the company from 4 to 2 times per year\n\u2022 Identified and visualized key factors that significantly contribute to higher premiums observed in both food and generic\nindustrial space",
+    "title": "Work Experience - Continental AG",
+    "content": "Work Experience - Continental AG\n\nPosition: Data Analytics Intern\nLocation: Singapore\nPeriod: Jan 2024 \u2013 Jun 2024\nProjects:\n\u2022 Designed and implemented a PowerBI dashboard to compare and filter similar projects, aiding project managers in identifying past project details and costs\n\u2022 Proposed and executed a redesign of the data relationships between 20+ tables in the project details management dashboard, streamlining data flows and improving efficiency\n\u2022 Employed PowerQuery for data cleaning and manipulation, and leveraged DAX measures to calculate key metrics (mean,\nmedian, standard deviation) for real-time project cost management\n\u2022 Enhanced data representation by performing data manipulation and proposing new visuals for the project attributes\ndashboard, improving clarity and insight into project details\n\u2022 Developed a dynamic organizational chart for manpower arrangement using Mendix, increasing human resource management efficiency through improved workforce visibility and planning",
     "category": "Work Experience",
     "metadata": {
       "source": "resume",
@@ -71,9 +71,9 @@
   },
   {
     "id": "section-8",
-    "title": "Teaching Experience",
-    "content": "Teaching Experience\n\nInstitution: National University of Singapore, School of Computing\nRole: Teaching Assistant\nCourse: IS1108 Digital Ethics and Data Privacy\nPeriod: Jan 2023 \u2013 Dec 2023\nDetails:\n\u2022 Facilitated a 25-student tutorial class to conduct discussion and learning on computing ethics and data privacy challenges\nin contemporary culture\n\u2022 Collaborated with Teaching Assistants to grade and review assignments for course participants",
-    "category": "Teaching",
+    "title": "Work Experience - Jurong Town Corporation (JTC)",
+    "content": "Work Experience - Jurong Town Corporation (JTC)\n\nPosition: Data Science Intern\nLocation: Singapore\nPeriod: May 2023 \u2013 Aug 2023\nProjects:\n\u2022 Conducted data cleansing, preprocessing, feature engineering, and developed machine learning models to accurately predict\nthe occupancy rate of sub-segments within the industrial property sector\n\u2022 Improved Mean Absolute Error of model predictions to 0.21% quarterly hence reducing the number of occupancy rate\nsurveys needed by the company from 4 to 2 times per year\n\u2022 Identified and visualized key factors that significantly contribute to higher premiums observed in both food and generic\nindustrial space",
+    "category": "Work Experience",
     "metadata": {
       "source": "resume",
       "section_number": 8
@@ -81,9 +81,9 @@
   },
   {
     "id": "section-9",
-    "title": "Project - Data Analyst Agent Development",
-    "content": "Project - Data Analyst Agent Development\n\nType: Consultancy Project\nPeriod: Mar 2025 \u2013 May 2025 (Expected)\nCompany: Rank Possible Sdn. Bhd. \nDetails:\n\u2022 Developed an MVP for a data analyst agent to help marketing teams extract insights from BigQuery without requiring\nSQL or coding expertise.\n\u2022 Built a full-stack web app using React.js and Recharts for frontend visualizations, and FastAPI to connect backend services.\n\u2022 Integrated Vanna AI to implement a RAG-reinforced text-to-SQL agent, leveraging historical query pairs to improve output\naccuracy over time.\n\u2022 Queried and analyzed two client-provided BigQuery tables (20+ columns each) using natural language inputs from nontechnical users.\n\u2022 Integrated Gemini-2.0-flash with Chain-of-Thought prompting to analyze queried dataset outputs, data cards, and descriptive statistics, generating chart suggestions, data insights, and recommended next steps.\n\u2022 Employed MongoDB for vector storage in the RAG pipeline and used Python for backend orchestration and data parsing.\n\u2022 Deployed an active demo website for client testing and iteration; continuously refining based on user feedback.",
-    "category": "Projects",
+    "title": "Teaching Experience",
+    "content": "Teaching Experience\n\nInstitution: National University of Singapore, School of Computing\nRole: Teaching Assistant\nCourse: IS1108 Digital Ethics and Data Privacy\nPeriod: Jan 2023 \u2013 Dec 2023\nDetails:\n\u2022 Facilitated a 25-student tutorial class to conduct discussion and learning on computing ethics and data privacy challenges\nin contemporary culture\n\u2022 Collaborated with Teaching Assistants to grade and review assignments for course participants",
+    "category": "Teaching",
     "metadata": {
       "source": "resume",
       "section_number": 9
@@ -91,8 +91,8 @@
   },
   {
     "id": "section-10",
-    "title": "Project - Portfolio Website & AI Chatbot",
-    "content": "Project - Portfolio Website & AI Chatbot\n\nType: Personal Project\nPeriod: Jan 2025 \u2013 Present\nCompany: Myself, at https://lordzhihao.vercel.app/\nDetails:\n\u2022 Designed and deployed a personal portfolio website using React.js and Vercel to showcase projects, education, and work\nexperience.\n\u2022 Integrated EmailJS to enable automated email responses for visitor inquiries, enhancing interactivity and outreach.\n\u2022 Built and deployed an AI-powered personal chatbot using a RAG architecture with FastAPI backend, Pinecone vector\nstore, and Gemini-2.0-flash as the LLM.\n\u2022 Engineered conversation memory with a rolling window of 10 messages to maintain chat context and improve response\nrelevance.\n\u2022 Developed the chatbot to answer questions about personal background, projects, and experience, offering an interactive\nway for visitors to explore the portfolio.",
+    "title": "Project - Data Analyst Agent Development",
+    "content": "Project - Data Analyst Agent Development\n\nType: Consultancy Project\nPeriod: Mar 2025 \u2013 May 2025 (Expected)\nCompany: Rank Possible Sdn. Bhd. \nDetails:\n\u2022 Developed an MVP for a data analyst agent to help marketing teams extract insights from BigQuery without requiring\nSQL or coding expertise.\n\u2022 Built a full-stack web app using React.js and Recharts for frontend visualizations, and FastAPI to connect backend services.\n\u2022 Integrated Vanna AI to implement a RAG-reinforced text-to-SQL agent, leveraging historical query pairs to improve output\naccuracy over time.\n\u2022 Queried and analyzed two client-provided BigQuery tables (20+ columns each) using natural language inputs from nontechnical users.\n\u2022 Integrated Gemini-2.0-flash with Chain-of-Thought prompting to analyze queried dataset outputs, data cards, and descriptive statistics, generating chart suggestions, data insights, and recommended next steps.\n\u2022 Employed MongoDB for vector storage in the RAG pipeline and used Python for backend orchestration and data parsing.\n\u2022 Deployed an active demo website for client testing and iteration; continuously refining based on user feedback.",
     "category": "Projects",
     "metadata": {
       "source": "resume",
@@ -101,8 +101,8 @@
   },
   {
     "id": "section-11",
-    "title": "Project - Bon-AIPetit",
-    "content": "Project - Bon-AIPetit\n\nType: Gamuda AI Academy Project (won 1st Runner-Up for best project)\nPeriod: Jan 2025 \u2013 Mar 2025\nCompany: Gamuda (Apprenticeship)\nDetails:\n\u2022 Led a team of 5 to design and deploy an AI-powered web application that transforms leftover ingredients into personalized\nmeals, promoting sustainability through smart technology.\n\u2022 Implemented a RAG-based system using Vertex AI Gemini-2.0-flash, MongoDB (vector embeddings), and Cloud SQL to\npower recipe generation, personalized meal planning, and a conversational Chef-bot.\n\u2022 Built a full-stack solution with Vue.js + Vuetify on the frontend (Firebase Hosting) and Python (FastAPI) on the backend\n(GCP Cloud Run); managed CI/CD using GitHub Actions.\n\u2022 Integrated ensemble models using Google Cloud Vision API to extract ingredients and text from grocery receipts and\nimages, reducing false positives in ingredients detection and OCR.\n\u2022 Enabled three core features: (1) Recipe Generator from ingredient photos, (2) Smart Meal Planner with nutritional tracking and grocery list, and (3) AI Chef-bot with context-aware chat.",
+    "title": "Project - Portfolio Website & AI Chatbot",
+    "content": "Project - Portfolio Website & AI Chatbot\n\nType: Personal Project\nPeriod: Jan 2025 \u2013 Present\nCompany: Myself, at https://lordzhihao.vercel.app/\nDetails:\n\u2022 Designed and deployed a personal portfolio website using React.js and Vercel to showcase projects, education, and work\nexperience.\n\u2022 Integrated EmailJS to enable automated email responses for visitor inquiries, enhancing interactivity and outreach.\n\u2022 Built and deployed an AI-powered personal chatbot using a RAG architecture with FastAPI backend, Pinecone vector\nstore, and Gemini-2.0-flash as the LLM.\n\u2022 Engineered conversation memory with a rolling window of 10 messages to maintain chat context and improve response\nrelevance.\n\u2022 Developed the chatbot to answer questions about personal background, projects, and experience, offering an interactive\nway for visitors to explore the portfolio.",
     "category": "Projects",
     "metadata": {
       "source": "resume",
@@ -111,8 +111,8 @@
   },
   {
     "id": "section-12",
-    "title": "Project - Coca-Cola Cargo Permit Automation",
-    "content": "Project - Coca-Cola Cargo Permit Automation\n\nType: Capstone Project\nCompany: The Coca-Cola Company\nPeriod: Aug 2024 \u2013 Nov 2024\nDetails:\n\u2022 Led the automation of cargo permit data extraction using Python, OpenCV, and YOLOv8, reducing manual processing\ntime by 30% and boosting workflow efficiency.\n\u2022 Generated synthetic data with cv2 and annotated 700+ permits using Roboflow, increasing training data by 80% and\nimproving object detection robustness.\n\u2022 Fine-tuned YOLOv8 for bounding box detection and implemented OCR pipelines with Pytesseract, Doctr, and PaddleOCR, achieving 99% text extraction precision.",
+    "title": "Project - Bon-AIPetit",
+    "content": "Project - Bon-AIPetit\n\nType: Gamuda AI Academy Project (won 1st Runner-Up for best project)\nPeriod: Jan 2025 \u2013 Mar 2025\nCompany: Gamuda (Apprenticeship)\nDetails:\n\u2022 Led a team of 5 to design and deploy an AI-powered web application that transforms leftover ingredients into personalized\nmeals, promoting sustainability through smart technology.\n\u2022 Implemented a RAG-based system using Vertex AI Gemini-2.0-flash, MongoDB (vector embeddings), and Cloud SQL to\npower recipe generation, personalized meal planning, and a conversational Chef-bot.\n\u2022 Built a full-stack solution with Vue.js + Vuetify on the frontend (Firebase Hosting) and Python (FastAPI) on the backend\n(GCP Cloud Run); managed CI/CD using GitHub Actions.\n\u2022 Integrated ensemble models using Google Cloud Vision API to extract ingredients and text from grocery receipts and\nimages, reducing false positives in ingredients detection and OCR.\n\u2022 Enabled three core features: (1) Recipe Generator from ingredient photos, (2) Smart Meal Planner with nutritional tracking and grocery list, and (3) AI Chef-bot with context-aware chat.",
     "category": "Projects",
     "metadata": {
       "source": "resume",
@@ -121,8 +121,8 @@
   },
   {
     "id": "section-13",
-    "title": "Project - Crop Demand Forecasting (Sarisuki)",
-    "content": "Project - Crop Demand Forecasting (Sarisuki)\n\nType: Consultancy Project\nCompany: Sarisuki\nPeriod: Jan 2024 \u2013 May 2024\nDetails:\n\u2022 Led a team of 4 to develop a short-term crop price forecasting system for 19 agricultural products using Python.\n2\u2022 Engineered features and performed time series analysis using ARIMA, SARIMA, VARIMA, LSTM, and Transformer\nmodels.\n\u2022 Evaluated model performance via MAE and MAPE, conducting backtesting to identify optimal models per crop and time\nhorizon (1\u20133 days ahead).\n\u2022 Utilized Python & Jupyter Notebooks for experimentation and documentation throughout the modelling pipeline.\n\u2022 Presented a final technical report to Sarisuki, delivering actionable insights for pricing strategy and supply chain optimization.",
+    "title": "Project - Coca-Cola Cargo Permit Automation",
+    "content": "Project - Coca-Cola Cargo Permit Automation\n\nType: Capstone Project\nCompany: The Coca-Cola Company\nPeriod: Aug 2024 \u2013 Nov 2024\nDetails:\n\u2022 Led the automation of cargo permit data extraction using Python, OpenCV, and YOLOv8, reducing manual processing\ntime by 30% and boosting workflow efficiency.\n\u2022 Generated synthetic data with cv2 and annotated 700+ permits using Roboflow, increasing training data by 80% and\nimproving object detection robustness.\n\u2022 Fine-tuned YOLOv8 for bounding box detection and implemented OCR pipelines with Pytesseract, Doctr, and PaddleOCR, achieving 99% text extraction precision.",
     "category": "Projects",
     "metadata": {
       "source": "resume",
@@ -131,8 +131,8 @@
   },
   {
     "id": "section-14",
-    "title": "Miscellaneous Projects",
-    "content": "Miscellaneous Projects\n\n\u2022 BrainHack 2023 - SeeTrue Category: Developed deep learning models in NLP & CV to classify fake social media\nusers, achieving an overall accuracy of 81% and a top 10 overall rankings\n\u2022 SDS Datathon 2024 - SingLife Analytics & Machine Learning: Developed machine learning models & performed\nvisualization & analytics to classify fraudulent SingLife insurance claims, achieving an accuracy of 95% & f1-score of 35%\n\u2022 EasyIntern - Internship Recommendation System: End to end website embedded with a job recommendation system to allow internship seekers to apply for internships with ease",
+    "title": "Project - Crop Demand Forecasting (Sarisuki)",
+    "content": "Project - Crop Demand Forecasting (Sarisuki)\n\nType: Consultancy Project\nCompany: Sarisuki\nPeriod: Jan 2024 \u2013 May 2024\nDetails:\n\u2022 Led a team of 4 to develop a short-term crop price forecasting system for 19 agricultural products using Python.\n2\u2022 Engineered features and performed time series analysis using ARIMA, SARIMA, VARIMA, LSTM, and Transformer\nmodels.\n\u2022 Evaluated model performance via MAE and MAPE, conducting backtesting to identify optimal models per crop and time\nhorizon (1\u20133 days ahead).\n\u2022 Utilized Python & Jupyter Notebooks for experimentation and documentation throughout the modelling pipeline.\n\u2022 Presented a final technical report to Sarisuki, delivering actionable insights for pricing strategy and supply chain optimization.",
     "category": "Projects",
     "metadata": {
       "source": "resume",
@@ -141,9 +141,9 @@
   },
   {
     "id": "section-15",
-    "title": "Leadership - BACT",
-    "content": "Leadership - BACT\n\nRole: Vice-President (Internal) & Senior Analyst\nPeriod: Aug 2023 \u2013 Aug 2024\nResponsibilities:\n\u2022 Led a consultancy project (see Projects) under BACT to deliver short-term crop price forecasting for Sarisuki.\n\u2022 Managed a publicity team of 4 to oversee social media platforms (Instagram, LinkedIn, Telegram), posting events and\nupdates for over 300 followers on Instagram and LinkedIn, and 80 members on Telegram\n\u2022 Collaborated with Alteryx and Xopa.ai to organize sharings, talks, and hackathons for club members and analysts\n\u2022 Facilitated weekly data analytics events, coordinating with external parties to deliver machine learning and data analytics\nsessions for 80+ members",
-    "category": "Leadership",
+    "title": "Miscellaneous Projects",
+    "content": "Miscellaneous Projects\n\n\u2022 BrainHack 2023 - SeeTrue Category: Developed deep learning models in NLP & CV to classify fake social media\nusers, achieving an overall accuracy of 81% and a top 10 overall rankings\n\u2022 SDS Datathon 2024 - SingLife Analytics & Machine Learning: Developed machine learning models & performed\nvisualization & analytics to classify fraudulent SingLife insurance claims, achieving an accuracy of 95% & f1-score of 35%\n\u2022 EasyIntern - Internship Recommendation System: End to end website embedded with a job recommendation system to allow internship seekers to apply for internships with ease",
+    "category": "Projects",
     "metadata": {
       "source": "resume",
       "section_number": 15
@@ -151,8 +151,8 @@
   },
   {
     "id": "section-16",
-    "title": "Leadership - NUS Pioneer House",
-    "content": "Leadership - NUS Pioneer House\n\nRoles: Peer Mentor, Cooking Interest Group Leader, Orientation Group Leader\nPeriod: Jun 2022 \u2013 Jun 2024\nResponsibilities:\n\u2022 Mentored 15 residents on academics, campus life, and personal development as part of the Peer Mentorship Programme.\n\u2022 Organised and hosted events for up to 70 residents to strengthen engagement, inclusivity, and community bonding.\n\u2022 Served as Orientation Group Leader (OGL) for PH Freshman Orientation Camp 2022/2023, leading a group of incoming\nstudents through onboarding and team-building activities.\n\u2022 Facilitated two-way communication between residents and management by relaying feedback and advocating for resident\nneeds to improve hostel living experience.\n\u2022 Oversaw performance of 7 student leaders under the PCT programme, ensuring smooth execution of weekly activities and\neffective peer leadership.\n\u2022 Led 12 biweekly cooking events for up to 20 participants per session; planned menus, managed ingredient preparation, and\nhandled participant signups.\n\u2022 Collaborated with Monofood (NGO) to organise an \u201cUgly Food\u201d event promoting sustainability and food waste reduction.",
+    "title": "Leadership - BACT",
+    "content": "Leadership - BACT\n\nRole: Vice-President (Internal) & Senior Analyst\nPeriod: Aug 2023 \u2013 Aug 2024\nResponsibilities:\n\u2022 Led a consultancy project (see Projects) under BACT to deliver short-term crop price forecasting for Sarisuki.\n\u2022 Managed a publicity team of 4 to oversee social media platforms (Instagram, LinkedIn, Telegram), posting events and\nupdates for over 300 followers on Instagram and LinkedIn, and 80 members on Telegram\n\u2022 Collaborated with Alteryx and Xopa.ai to organize sharings, talks, and hackathons for club members and analysts\n\u2022 Facilitated weekly data analytics events, coordinating with external parties to deliver machine learning and data analytics\nsessions for 80+ members",
     "category": "Leadership",
     "metadata": {
       "source": "resume",
@@ -161,8 +161,8 @@
   },
   {
     "id": "section-17",
-    "title": "Leadership - NUS Prince George\u2019s Park Residences (PGPR)",
-    "content": "Leadership - NUS Prince George\u2019s Park Residences (PGPR)\n\nRole: Badminton Sports Clinic Leader\nPeriod: Aug 2024 \u2013 Dec 2024\nResponsibilities:\n\u2022 Organised and led 8 biweekly badminton clinics for PGPR residents, with 10\u201312 participants per session.\n\u2022 Managed court bookings, equipment preparation, and hydration logistics to ensure smooth event execution.\n\u2022 Instructed beginner-friendly badminton drills, techniques, and rules, catering to newcomers and casual players.\n\u2022 Led warm-up and cool-down routines while fostering an inclusive and active community environment through sports.",
+    "title": "Leadership - NUS Pioneer House",
+    "content": "Leadership - NUS Pioneer House\n\nRoles: Peer Mentor, Cooking Interest Group Leader, Orientation Group Leader\nPeriod: Jun 2022 \u2013 Jun 2024\nResponsibilities:\n\u2022 Mentored 15 residents on academics, campus life, and personal development as part of the Peer Mentorship Programme.\n\u2022 Organised and hosted events for up to 70 residents to strengthen engagement, inclusivity, and community bonding.\n\u2022 Served as Orientation Group Leader (OGL) for PH Freshman Orientation Camp 2022/2023, leading a group of incoming\nstudents through onboarding and team-building activities.\n\u2022 Facilitated two-way communication between residents and management by relaying feedback and advocating for resident\nneeds to improve hostel living experience.\n\u2022 Oversaw performance of 7 student leaders under the PCT programme, ensuring smooth execution of weekly activities and\neffective peer leadership.\n\u2022 Led 12 biweekly cooking events for up to 20 participants per session; planned menus, managed ingredient preparation, and\nhandled participant signups.\n\u2022 Collaborated with Monofood (NGO) to organise an \u201cUgly Food\u201d event promoting sustainability and food waste reduction.",
     "category": "Leadership",
     "metadata": {
       "source": "resume",
@@ -171,12 +171,22 @@
   },
   {
     "id": "section-18",
+    "title": "Leadership - NUS Prince George\u2019s Park Residences (PGPR)",
+    "content": "Leadership - NUS Prince George\u2019s Park Residences (PGPR)\n\nRole: Badminton Sports Clinic Leader\nPeriod: Aug 2024 \u2013 Dec 2024\nResponsibilities:\n\u2022 Organised and led 8 biweekly badminton clinics for PGPR residents, with 10\u201312 participants per session.\n\u2022 Managed court bookings, equipment preparation, and hydration logistics to ensure smooth event execution.\n\u2022 Instructed beginner-friendly badminton drills, techniques, and rules, catering to newcomers and casual players.\n\u2022 Led warm-up and cool-down routines while fostering an inclusive and active community environment through sports.",
+    "category": "Leadership",
+    "metadata": {
+      "source": "resume",
+      "section_number": 18
+    }
+  },
+  {
+    "id": "section-19",
     "title": "Skills",
     "content": "Skills\n\nLanguages: Python, R, SQL, Java, JavaScript, HTML, CSS\nFrameworks: VueJs, Vuetify, ReactJs, Firebase, Pandas, Numpy, Sklearn, Pytorch, Ultralytics, LangChain, Airflow, Selenium, Bs4, Streamlit, FastAPI, Pydantic\nTools: PowerBI, Tableau, Excel, UiPath, Alteryx, Figma, MySQL, PostgreSQL, MongoDB, Pinecone, Docker\nCloud: Cloud SQL, BigQuery, Vertex AI, Cloud Run\nCertifications: UiPath RPA Developer Foundations, CFI DS & ML Fundamentals, Gamuda AI Academy Graduate\nLanguages Spoken: Fluent in English, Mandarin, Malay; Competent in written English, Mandarin, Malay",
     "category": "Skills",
     "metadata": {
       "source": "resume",
-      "section_number": 18
+      "section_number": 19
     }
   }
 ]
